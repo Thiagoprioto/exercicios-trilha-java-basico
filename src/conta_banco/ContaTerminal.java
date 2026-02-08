@@ -1,4 +1,4 @@
-package exercicio_1;
+package conta_banco;
 
 import java.util.Scanner;
 
